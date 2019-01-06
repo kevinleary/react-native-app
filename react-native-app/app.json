@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "testing react-native with expo",
+    "githubUrl": "https://github.com/kevinleary/react-native-app"
   }
 }
